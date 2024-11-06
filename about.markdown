@@ -1,10 +1,14 @@
-## Hi there 👋
+---
+layout: page
+title: About me
+permalink: /about/
+---
 
-Hello, I'm Javi! 😊 I'm a software engineer with a career spanning since 2006. Over the years, I've been involved in diverse projects, ranging from public administration and healthcare systems to gambling and ride hailing.
+👋 Hello, I'm Javi! 😊 I'm a software engineer with a career spanning since 2006. Over the years, I've been involved in diverse projects, ranging from public administration and healthcare systems to gambling and ride hailing.
 
 ## 💼 Work Experience
 
-Currently, I am working as a Senior Software Engineer at [Cabify](https://cabify.com/). I have previous experience at Indra Software Labs or Recreativos Franco S.L accumulating valuable experience in various domains, including public administration, healthcare and gambling.
+**Currently**, I am working as a Senior Software Engineer at [Cabify](https://cabify.com/). I have previous experience at Indra Software Labs or Recreativos Franco S.L accumulating valuable experience in various domains, including public administration, healthcare and gambling.
 
 ## 🔧 Skills
 
@@ -29,7 +33,6 @@ I'm excited about the journey ahead and the endless possibilities in the world o
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/dotnet/dotnet.png"></p>
 
 **Some Stats:**  
-
 <a href="https://github.com/jsolana/jsolana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsolana&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsolana&layout=compact&size_weight=0.5&count_weight=0.5" style="display: block; margin-left: auto; margin-right: auto;"/>
 </a>
