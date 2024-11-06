@@ -15,13 +15,21 @@ The [engine](https://github.com/apoloval/pctk) we created is especially suited f
 
 Check out the trailer for our project below:
 
-[![Cabify's adventure](https://img.youtube.com/vi/-ZoMIzeToEU/0.jpg)](https://www.youtube.com/watch?v=-ZoMIzeToEU)
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=-ZoMIzeToEU" target="_blank">
+    <img src="https://img.youtube.com/vi/-ZoMIzeToEU/0.jpg" alt="Cabify's adventure">
+  </a>
+</div>
 
 ### Rediscovering My Love for Game Development 🎮
 
 The funny thing is almost 12 years ago, I completed a course as a video game development expert, diving deep into **Ogre** and **C++** to create a 3D mini-golf game. Here’s a trailer of that earlier project:
 
-[![4 seasons minigolf](https://img.youtube.com/vi/WGmb2GUBxSc/0.jpg)](https://www.youtube.com/watch?v=WGmb2GUBxSc)
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=WGmb2GUBxSc" target="_blank">
+    <img src="https://img.youtube.com/vi/WGmb2GUBxSc/0.jpg" alt="4 Seasons Minigolf">
+  </a>
+</div>
 
 Coming back to game development after all these years was like reconnecting with that spark that got me into programming as a kid. This hackathon reminded me of the pure joy of creating something interactive and visual from scratch, and it left me wanting more!
 
