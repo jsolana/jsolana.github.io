@@ -31,6 +31,7 @@ github_username:  jekyll
 
 assets:
   images: /assets/images
+  scripts: /
 
 # Build settings
 theme: minima
